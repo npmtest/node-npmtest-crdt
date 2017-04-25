@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [crdt (v3.6.4)](http://github.com/dominictarr/crdt)  [![npm package](https://img.shields.io/npm/v/npmtest-crdt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crdt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crdt.svg)](https://travis-ci.org/npmtest/node-npmtest-crdt)",
+    "description": "#### basic test coverage for  [crdt (v3.6.4)](http://github.com/dominictarr/crdt)  [![npm package](https://img.shields.io/npm/v/npmtest-crdt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crdt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crdt.svg)](https://travis-ci.org/npmtest/node-npmtest-crdt)",
     "devDependencies": {
         "crdt": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

@@ -1,6 +1,6 @@
 # npmtest-crdt
 
-#### test coverage for  [crdt (v3.6.4)](http://github.com/dominictarr/crdt)  [![npm package](https://img.shields.io/npm/v/npmtest-crdt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crdt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crdt.svg)](https://travis-ci.org/npmtest/node-npmtest-crdt)
+#### basic test coverage for  [crdt (v3.6.4)](http://github.com/dominictarr/crdt)  [![npm package](https://img.shields.io/npm/v/npmtest-crdt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crdt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crdt.svg)](https://travis-ci.org/npmtest/node-npmtest-crdt)
 
 #### Commutative Replicated Data Types for easy distributed/collaborative apps
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-crdt/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-crdt/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-crdt/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-crdt/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-crdt/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-crdt/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-crdt/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-crdt/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-crdt/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-crdt/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-crdt/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-crdt/build/coverage.html/index.html)
 
@@ -91,7 +91,8 @@
             "android-browser/4.2..latest"
         ]
     },
-    "version": "3.6.4"
+    "version": "3.6.4",
+    "bin": {}
 }
 ```
 
